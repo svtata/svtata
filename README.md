@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!
 
 <!--
 **svtata/svtata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm QA engineer since 2021.
+I'm QA engineer in manual and automation testing since 2021.
 
 Check out examples of my projects :arrow_down:
 
